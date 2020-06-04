@@ -1,1 +1,1 @@
-execute as @a[nbt={Dimension:0}] run function nether_only:teleport
+execute as @a[nbt={Dimension:"minecraft:overworld"}] run function nether_only:teleport
